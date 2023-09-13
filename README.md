@@ -9,7 +9,7 @@ The program builds a parse tree from the input expression, evaluates the express
 To run this program, you need the following:
 
 - Java Development Kit (JDK) installed on your computer.
-- The BRIDGES API library, which can be obtained from [BRIDGES website](https://bridgesuncc.github.io/doc/java-api/current/bridges_base.html).
+- The BRIDGES API library, which can be obtained from [BRIDGES website](https://bridgesuncc.github.io/).
 
 ## Usage
 1. Clone this repository to your local machine:
